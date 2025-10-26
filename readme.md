@@ -79,7 +79,7 @@ Here is an example of what the user sees :
 
 | Original | Grayscale 🎨 | Sepia 🎞️ | Blur 🌫️ | Pencil Sketch ✏️ |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Original Image]([emma.jpg]) | ![Grayscale Image]([grey.jpg]) | ![Sepia Image]([sepia.jpg]) | ![Blurred Image]([blur.jpg]) | ![Pencil Sketch Image]([pencil.jpg]) |
+| ![Original Image](![[emma.jpg]]) | ![Grayscale Image]([grey.jpg]) | ![Sepia Image]([sepia.jpg]) | ![Blurred Image]([blur.jpg]) | ![Pencil Sketch Image]([pencil.jpg]) |
 
 
 
