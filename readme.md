@@ -3,6 +3,8 @@
 
 ## Demo
 
+![Demo](./instafilter.gif)
+
 ## 💡 High-Level Summary
 
 This is a simple, interactive command-line tool (CLI) built with Python, OpenCV, and NumPy. It allows a user to load any image, apply a variety of artistic and corrective filters (Grayscale, Blur, Sepia, Pencil Sketch), and instantly preview the "Before vs. After" result. The user can then choose to save the newly filtered image.
