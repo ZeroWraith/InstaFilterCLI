@@ -1,4 +1,7 @@
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 # 🖼️ OpenCV Image Filter CLI Tool ✨
+
+## Demo
 
 ## 💡 High-Level Summary
 
